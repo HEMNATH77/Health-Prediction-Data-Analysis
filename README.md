@@ -44,6 +44,16 @@ https://github.com/user-attachments/assets/6b85afa2-44b9-4654-b811-9edfd37480c4
 # SOLUTION
 <P>Through the dashboard and analysis, we can gain a clear understanding of how many individuals are affected by diabetes and heart diseases due to factors such as BMI, smoking habits, blood glucose levels, hypertension, and more. By visually analyzing these key health indicators, we can easily identify the groups most at risk. This understanding allows healthcare professionals and policymakers to take proactive measures in addressing these conditions. Early detection through data-driven insights means that proper interventions, such as lifestyle changes, medications, and other preventive activities, can be recommended. For instance, individuals with high BMI or elevated blood glucose levels can be guided toward weight management programs, nutritional advice, and regular monitoring, all of which can help mitigate the risk of developing chronic diseases. Additionally, smoking cessation programs and hypertension control strategies can be deployed to target and reduce risk factors. The ultimate goal of this analysis is not only to predict disease prevalence but also to provide actionable insights that lead to better healthcare outcomes and preventive measures.</P>
 
+
+
+# TABLEAU DESKTOP LINK
+
+https://public.tableau.com/app/profile/hemnath.m/viz/HealthPredictionDataAnalysis/Dashboard1
+
+
+
+
+
 # CONCLUSION
 <P>The Health Prediction Analysis using Tableau project successfully demonstrates the power of data visualization in understanding and predicting health conditions such as diabetes and heart disease. By leveraging Tableau’s intuitive dashboard, we were able to visually explore key health indicators like BMI, smoking habits, blood glucose levels, and hypertension, providing a comprehensive view of the factors that contribute to these diseases. The interactive nature of the dashboard not only facilitates faster data comprehension but also allows users to drill down into specific insights, making the data analysis process more efficient and impactful.
 
